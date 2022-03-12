@@ -25,7 +25,7 @@ SECRET_KEY = '%ub!5(2n*1wa&6$^-1ik!1=v+3sxuk!1rdbc^8zdig-z=9s2u-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['real-estate-django-project.herokuapp.com']
 
 
 # Application definition
