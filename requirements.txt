@@ -10,3 +10,4 @@ yfinance
 plotly
 bokeh
 gunicorn
+psycopg2
